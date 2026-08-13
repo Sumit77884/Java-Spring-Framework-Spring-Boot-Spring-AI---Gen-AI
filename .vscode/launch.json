@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "multipleInheritance",
+            "request": "launch",
+            "mainClass": "multipleInheritance",
+            "projectName": "Java-Spring-Framework-Spring-Boot-Spring-AI---Gen-AI_8bbc89ab"
+        },
+        {
+            "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "Java-Spring-Framework-Spring-Boot-Spring-AI---Gen-AI_8bbc89ab"
+        },
+        {
+            "type": "java",
+            "name": "anonymousObject",
+            "request": "launch",
+            "mainClass": "anonymousObject",
+            "projectName": "Java-Spring-Framework-Spring-Boot-Spring-AI---Gen-AI_8bbc89ab"
+        },
+        {
+            "type": "java",
+            "name": "static_method",
+            "request": "launch",
+            "mainClass": "static_method",
+            "projectName": "Java-Spring-Framework-Spring-Boot-Spring-AI---Gen-AI_8bbc89ab"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
