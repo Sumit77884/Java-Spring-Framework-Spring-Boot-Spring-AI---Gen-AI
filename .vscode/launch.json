@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "packages",
+            "request": "launch",
+            "mainClass": "packages",
+            "projectName": "Java-Spring-Framework-Spring-Boot-Spring-AI---Gen-AI_8bbc89ab"
+        },
+        {
+            "type": "java",
+            "name": "this_",
+            "request": "launch",
+            "mainClass": "this_",
+            "projectName": "Java-Spring-Framework-Spring-Boot-Spring-AI---Gen-AI_8bbc89ab"
+        },
+        {
+            "type": "java",
+            "name": "super_this",
+            "request": "launch",
+            "mainClass": "super_this",
+            "projectName": "Java-Spring-Framework-Spring-Boot-Spring-AI---Gen-AI_8bbc89ab"
+        },
+        {
+            "type": "java",
             "name": "multipleInheritance",
             "request": "launch",
             "mainClass": "multipleInheritance",
